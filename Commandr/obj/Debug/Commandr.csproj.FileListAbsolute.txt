@@ -1,0 +1,5 @@
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr\bin\Debug\Commandr.dll
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr\bin\Debug\Commandr.pdb
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr\obj\Debug\Commandr.csprojResolveAssemblyReference.cache
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr\obj\Debug\Commandr.dll
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr\obj\Debug\Commandr.pdb

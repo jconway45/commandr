@@ -1,0 +1,11 @@
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\Commandr.Tests.dll
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\Commandr.Tests.pdb
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\Commandr.dll
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\Moq.dll
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\Commandr.pdb
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\Moq.xml
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\obj\Debug\Commandr.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\obj\Debug\Commandr.Tests.dll
+C:\Projects\ImageHandlerLoadTest\Commandr\Commandr.Tests\obj\Debug\Commandr.Tests.pdb
